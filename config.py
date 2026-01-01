@@ -4,8 +4,8 @@ BASE_URL = "https://essths.rnu.tn/intranet"
 LOGIN_URL = "https://essths.rnu.tn/login"
 MESSAGES_URL = f"{BASE_URL}/messages"
 
-USERNAME = "12908777"
-PASSWORD = "12345@@@xxb"
+USERNAME = "type your email"
+PASSWORD = "type your password"
 
 RECIPIENT = "Alaeddine KHARRAT"
 MESSAGE_SUBJECT = "Message automatique P4-C1"
